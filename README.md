@@ -42,6 +42,6 @@ You should see the app running on `http://localhost:8080`
 ## Built With
 
 * [Spring Boot](https://projects.spring.io/spring-boot/) - The web framework used
-* [Scala]()
+* [Scala](https://www.scala-lang.org/) - JVM programming language
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [Thymeleaf](http://www.thymeleaf.org/) - Template system
