@@ -4,19 +4,19 @@ A super simple micro blog app that demonstrates how Thymeleaf templates can be u
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+These instructions will get you a copy of the project up and running on your local machine for development purposes.
 
 ### Prerequisites
 
-To run this app, you'll need to have Java 8 and Maven installed. You could also use the Spring Boot CLI to run the app if you'd like to.
+To run this app, you'll need to have Java, Scala, and Maven installed. You could also use the Spring Boot CLI to run the app if you'd like to.
 
 ### Installing
 
 Clone this repository and change into the project's directory.
 
 ```
-$ git clone https://github.com/scottmcallister/micro-blog-spring-boot.git
-$ cd micro-blog-spring-boot
+$ git clone https://github.com/scottmcallister/spring-boot-blog-scala.git
+$ cd spring-boot-blog-scala
 ```
 
 Build a Jar file using Maven
@@ -28,7 +28,7 @@ $ mvn clean install -DskipTests
 Start a local server using the jar file you just created
 
 ```
-$ java -jar target/micro-blog-spring-boot-0.0.1-SNAPSHOT.jar
+$ java -jar target/spring-boot-blog-scala-0.0.1-SNAPSHOT.jar
 ```
 
 OR you can run using the spring-boot maven plugin.
